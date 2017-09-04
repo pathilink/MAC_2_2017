@@ -1,5 +1,10 @@
 # include <stdio.h>
 
+/*Dados um número inteiro positivo n e uma sequência de n datas, imprimir qual
+é o dia da semana correspondente a cada uma das datas fornecidas.
+mes = 1 corresponde a janeiro etc.
+valor = 0 corresponde a domingo etc.*/
+
 int main() {
 
     int a, ano, k, m, mes, d, dia, n = 0; /*declara variaveis*/
