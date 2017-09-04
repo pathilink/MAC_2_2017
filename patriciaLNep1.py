@@ -30,7 +30,12 @@
   http://www.ime.usp.br/~pf/algoritmos/aulas/quick.html
 
 """
-
+'''
+Dados um número inteiro positivo n e uma sequência de n datas, imprimir qual
+é o dia da semana correspondente a cada uma das datas fornecidas.
+mes = 1 corresponde a janeiro etc.
+valor = 0 corresponde a domingo etc.
+'''
 def main():
     
     n = int(input("Digite um numero inteiro: "))
