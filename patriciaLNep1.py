@@ -15,9 +15,9 @@
   ENTENDO QUE EPS SEM ASSINATURA NÃO SERÃO CORRIGIDOS E, AINDA
   ASSIM, PODERÃO SER PUNIDOS POR DESONESTIDADE ACADÊMICA.
 
-  Nome:PATRICIA L DO NASCIMENTO
-  Número USP: 6836726
-  Curso: ESTATISTICA               Turma: 48
+  Nome:PATRICIA 
+  Número USP: 
+  Curso: ESTATISTICA               Turma: 
   Exercício-Programa 01  
 
   Referências: Com exceção das rotinas que podem ser fornecidas
